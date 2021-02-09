@@ -24,11 +24,11 @@ oath1 = BloodOath.new(cromulons, summer, '2015/2/11')
 oath2 = BloodOath.new(jonestown, kim, '1951/1/1')
 oath3 = BloodOath.new(jonestown, paul, '1951/1/1')
 oath4 = BloodOath.new(jonestown, danny, '1952/1/1')
-oath5 = BloodOath.new(jonestown, hillary, '1952/1/1')
+oath8 = BloodOath.new(solartemple, hillary, '1990/4/1')
 oath6 = BloodOath.new(heavensgate, dave, '1974/1/1')
 oath7 = BloodOath.new(heavensgate, paul, '1988/11/1')
 oath8 = BloodOath.new(solartemple, kim, '1989/12/1')
-oath8 = BloodOath.new(solartemple, hillary, '1990/4/1')
+oath5 = BloodOath.new(jonestown, hillary, '1952/1/1')
 oath8 = BloodOath.new(solartemple, danny, '1994/3/2')
 
 
